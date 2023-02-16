@@ -21,4 +21,4 @@ This is a Deep learning project using Flickr8k dataset. A model inspired from th
 6.  Run all the shells. Happy CODING :)
 
 ## VISUAL REPRESENTATION OF MODEL
-![Visual Representation](model.png)
+![Visual Representation](model1.png)
